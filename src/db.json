@@ -1,0 +1,39 @@
+{
+    "data":[
+        {
+            "judul":"BLACK CLOVER",
+            "rating":"7",
+            "img_src":"https://i.imgur.com/SroSiCU.jpg",
+            "id":"1",
+            "sinopsis":"Asta adalah seorang anak muda yang bermimpi menjadi penyihir terhebat di kerajaan. Tapi dia punya satu masalah, dia tidak bisa menggunakan sihir. Nasib baik menghampirinya karena mendapatkan Grimoire lima daun yang sangat langka \"Black Clover\" yang memberinya kekuatan anti-sihir. "
+        },
+        {
+            "judul":"ONE PIECE",
+            "rating":"8",
+            "img_src":"https://i.imgur.com/0kumc3B.jpg",
+            "id":"2",
+            "sinopsis":"Inilah awal dari era bajak laut, semua orang bermimpi menemukan One Piece (yang mana menjanjikan harta dan tahta yang tak terhingga jumlahnya), dan tentunya merebut gelar dari orang yang pertama menemukannya, gelar Raja Bajak Laut. Monkey D Luffy."
+        },
+        {
+            "judul":"HAIKYUU!!: TO THE TOP",
+            "rating":"8",
+            "img_src":"https://i.imgur.com/cLFbgKw.jpg",
+            "id":"3",
+            "sinopsis":"Anime Haikyuu!! To The Top menceritakan kelanjutan dari cerita anime Haikyuu musim sebelumnya anime ini"
+        },
+        {
+            "judul":"BORUTO : NARUTO NEXT GENERATIONs",
+            "rating":"7",
+            "img_src":"https://i.imgur.com/FXYU8qw.jpg",
+            "id":"4",
+            "sinopsis":"Boruto Uzumaki sering menjadi pusat perhatian sebagai putra Hokage Ketujuh. Meskipun mewarisi perilaku Naruto yang keras dan keras kepala, Boruto dianggap ajaib dan mampu melepaskan potensinya dengan bantuan teman dan keluarga yang mendukung."
+        },
+        {
+            "judul":"SHADOWVERSE",
+            "rating":"5",
+            "img_src":"https://i.imgur.com/GkBm1Cu.jpg",
+            "id":"5",
+            "sinopsis":"Serial Adaptasi dari Game dengan Judul yang Sama"
+        }
+    ]
+}
